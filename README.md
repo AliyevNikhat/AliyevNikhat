@@ -1,13 +1,13 @@
 # Aliyev Nikhat
 
-**`Backend Developer | C# Enthusiast | ICPC Competitive Programmer`**
+**`Backend Developer | C# & C++ Enthusiast | ICPC Competitive Programmer`**
 
-Hi, I'm Nikhat. I'm a university student specializing in programming and backend development with C#.  
-I have experience in competitive programming, including participation in **ICPC (International Collegiate Programming Contest)** style contests.  
-I enjoy solving algorithmic challenges, building practical projects, and continuously improving my coding skills.
+Hi, I'm Nikhat. I'm a backend developer with strong experience in **C# and C++**, as well as competitive programming, including **ICPC (International Collegiate Programming Contest)** style contests.  
+I enjoy solving algorithmic challenges, building practical projects, and continuously improving my software engineering skills.
 
-- 💻 Aspiring backend developer with a focus on clean, maintainable C# code  
-- 🧠 Competitive programmer with experience in ICPC-style contests  
+- 💻 Backend development with a focus on clean, maintainable C# code  
+- 🖥️ Experienced in C++ for competitive programming and algorithmic challenges  
+- 🧠 Competitive programmer with ICPC experience  
 - 🤖 Interested in AI, algorithms, and practical software solutions  
 - 🛠️ Continuously improving through personal projects and coding challenges  
 
