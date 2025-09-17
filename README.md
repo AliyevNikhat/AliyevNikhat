@@ -24,4 +24,4 @@ I enjoy solving algorithmic challenges, building practical projects, and continu
 
 ### 📊 GitHub Stats
 
-![Nihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyevNikhat&show_icons=true&theme=tokyonight)
+![Nihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyevNikhat&show_icons=true&theme=tokyonight&cache_seconds=86400)
